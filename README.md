@@ -31,3 +31,7 @@ Pooling Layer (Max Pooling) – Reduces the spatial dimensions, making the model
 Fully Connected Layer (Dense Layer) – Maps extracted features to classification labels.
 
 Softmax Activation – Outputs probabilities for each class (cat or dog).
+
+**Building the CNN Model**
+
+
