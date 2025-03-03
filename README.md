@@ -33,5 +33,6 @@ Fully Connected Layer (Dense Layer) – Maps extracted features to classificatio
 Softmax Activation – Outputs probabilities for each class (cat or dog).
 
 **Building the CNN Model**
+![Image](https://github.com/user-attachments/assets/b44a8890-a23f-4077-b22c-84c4e3b67ed4)
 
 
